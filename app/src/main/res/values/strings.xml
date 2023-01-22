@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LandscapePortrait</string>
+    <string name="txtEditHint">Enter Statement</string>
+    <string name="txtBtn">View Statement</string>
+</resources>
